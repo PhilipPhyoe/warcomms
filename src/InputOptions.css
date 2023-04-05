@@ -1,0 +1,10 @@
+.inputOptions {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    cursor: pointer;
+    color: gray;
+}
+.inputOptions > p {
+    margin-left: 1rem;
+}

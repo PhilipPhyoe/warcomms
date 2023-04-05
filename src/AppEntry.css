@@ -1,7 +1,7 @@
-.App {
+.AppEntry {
     margin: 0;
 }
 
-.app-body {
+.appentry-body {
     display: flex;
 }

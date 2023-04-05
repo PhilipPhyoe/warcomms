@@ -1,0 +1,9 @@
+.sidebar-recentItem {
+    display: flex;
+    font-size: 1rem;
+    color: gray;
+    font-weight: bolder;
+    cursor: pointer;
+    padding: 5px;
+    margin-left: 1rem;
+}

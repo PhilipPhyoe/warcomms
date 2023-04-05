@@ -1,0 +1,35 @@
+.post {
+    background-color: rgb(241, 241, 241);
+    padding: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.post-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+.post-info {
+    margin-left: 1rem;
+}
+.post-info > p {
+    font-size: 1rem;
+    color: gray;
+}
+
+.post-body {
+    overflow-wrap: anywhere;
+}
+
+.post-info > h2 {
+    font-size: 1.5rem;
+}
+.post-body > p {
+    font-size: 1.5rem;
+}
+.post-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
