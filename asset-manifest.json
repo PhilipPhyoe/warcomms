@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/warcomms/static/css/main.66a02f94.css",
-    "main.js": "/warcomms/static/js/main.9a057472.js",
+    "main.js": "/warcomms/static/js/main.2f56c293.js",
     "static/js/787.9f432359.chunk.js": "/warcomms/static/js/787.9f432359.chunk.js",
     "static/media/cover.jpg": "/warcomms/static/media/cover.5dc76f47542b94d7fb27.jpg",
     "static/media/Logo.png": "/warcomms/static/media/Logo.82157bcd74e64df63ffe.png",
     "index.html": "/warcomms/index.html",
     "main.66a02f94.css.map": "/warcomms/static/css/main.66a02f94.css.map",
-    "main.9a057472.js.map": "/warcomms/static/js/main.9a057472.js.map",
+    "main.2f56c293.js.map": "/warcomms/static/js/main.2f56c293.js.map",
     "787.9f432359.chunk.js.map": "/warcomms/static/js/787.9f432359.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66a02f94.css",
-    "static/js/main.9a057472.js"
+    "static/js/main.2f56c293.js"
   ]
 }
